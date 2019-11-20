@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E6762DE0-2CA6-8CC7-3BB5-C4F0A378FCB2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/BackgroundTextureAnimator.cs">
+    <Files>
+      <File FileName="Assets/Game/Scripts/BackgroundScaler.cs" Line="17" Column="73" />
+      <File FileName="Assets/Game/Scripts/BackgroundTextureAnimator.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AttekitaDevRunnerGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Game" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="BackgroundTextureAnimator.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="733b3f2a-eb8d-4c69-b261-a4219a0fce18" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
