@@ -5,13 +5,13 @@ Game desenvolvido para HostGator em ação para Black Friday https://aventurahos
 
 Nesse curso rápido vamos aprender conceitos básicos de desenvolvimento de games e aprender a trabalhar com a Unity
 
-Softwares utilizados
+Softwares utilizados<br>
 UNITY
 
-Linguagem
+Linguagem<br>
 C#
 
-Nível de conhecimento necessário
+Nível de conhecimento necessário<br>
 Conhecimento em alguma linguagem de programação e familiaridade com programação orientada a objeto
 
 Sumário:
