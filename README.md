@@ -23,3 +23,9 @@ Primeiros passos na Unity
 Importando e configurando texturas
 Criando objetos na cena
 Trabalhando com componentes Monobehavior
+
+#AULA 02
+
+Trabahando com componentes dinâmicos e expondo variaveis
+Montando camadas do cenário
+Criando prefabs
