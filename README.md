@@ -29,3 +29,9 @@ Trabalhando com componentes Monobehavior
 Trabahando com componentes dinâmicos e expondo variaveis
 Montando camadas do cenário
 Criando prefabs
+
+#AULA 03
+
+Tratando os inputs do player
+Adicionando interatividade ao Game
+Movimentação dos obstáculos
