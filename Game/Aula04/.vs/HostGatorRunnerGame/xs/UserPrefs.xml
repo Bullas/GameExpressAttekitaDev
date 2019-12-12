@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6629E50A-11F0-F1FF-0D46-3253DE0302ED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/ObstacleGenerator.cs">
+    <Files>
+      <File FileName="Assets/Game/Scripts/BackgroundScaler.cs" Line="35" Column="63" />
+      <File FileName="Assets/Game/Scripts/BackgroundTextureAnimator.cs" />
+      <File FileName="Assets/Game/Scripts/Player.cs" />
+      <File FileName="Assets/Game/Scripts/Obstacle.cs" Line="14" Column="5" />
+      <File FileName="Assets/Game/Scripts/ObstacleGenerator.cs" Line="39" Column="65" />
+      <File FileName="Assets/Game/Scripts/ObstaclesCollector.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HostGatorRunnerGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Game" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="ObstacleGenerator.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c740bd96-dd06-40c6-b51b-667b536debc1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
