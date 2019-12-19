@@ -35,3 +35,7 @@ Criando prefabs
 Tratando os inputs do player
 Adicionando interatividade ao Game
 Movimentação dos obstáculos
+
+#AULA 04
+
+Criando nosso próprio gerador de obstaculos e otimizando para o nosso game
