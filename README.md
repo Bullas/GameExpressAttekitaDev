@@ -39,3 +39,8 @@ Movimentação dos obstáculos
 #AULA 04
 
 Criando nosso próprio gerador de obstaculos e otimizando para o nosso game
+
+#AULA 05
+
+Tratando os estados do jogo e confirgurando nosso Game Over
+Aprendendo sobre ScriptableObjects
