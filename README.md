@@ -44,3 +44,7 @@ Criando nosso próprio gerador de obstaculos e otimizando para o nosso game
 
 Tratando os estados do jogo e confirgurando nosso Game Over
 Aprendendo sobre ScriptableObjects
+
+#AULA 06
+
+Construindo a interface do jogo
