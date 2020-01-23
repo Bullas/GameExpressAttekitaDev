@@ -48,3 +48,7 @@ Aprendendo sobre ScriptableObjects
 #AULA 06
 
 Construindo a interface do jogo
+
+#AULA 07
+
+Resetando o game e configurando leveis de dificuldade
